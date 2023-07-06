@@ -1,0 +1,38 @@
+p{
+text-align: center;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+span { 
+    color: #F38181;
+}
+h1 {
+    color: #333;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+font-variant: all-small-caps;
+}
+button {
+    width: 150px;
+height: 40px;
+flex-shrink: 0;
+background: #95E1D3;
+}
+input{
+    stroke-width: 1px;
+stroke: #B6B6B6;
+width: 230px;
+height: 39px;
+flex-shrink: 0;
+}
+h1 {
+   text-align: center;
+}
+h3 { 
+    text-align: center;
+}
+
